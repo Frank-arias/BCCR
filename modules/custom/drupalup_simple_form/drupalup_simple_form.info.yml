@@ -1,0 +1,4 @@
+name: drupalup simple custom form
+description: our custom form
+type: module
+core: 8.x

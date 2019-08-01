@@ -1,0 +1,4 @@
+name: drupal-8.7.3-master
+recipe: drupal8
+config:
+  webroot: .

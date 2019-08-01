@@ -1,0 +1,9 @@
+my_module.routing:
+  path: '/my_module'
+  defaults:
+    _controller: '\Drupal\my_module\Controller\my_moduleController::test'
+    _title: 'My_module'
+  requirements:
+    _permission: 'access content'
+
+

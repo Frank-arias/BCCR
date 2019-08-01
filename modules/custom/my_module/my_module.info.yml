@@ -1,0 +1,6 @@
+name: my_module
+description: practica para crear modulos
+package: Custom
+
+type: module
+core: 8.x

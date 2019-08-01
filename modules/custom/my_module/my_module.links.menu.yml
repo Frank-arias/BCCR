@@ -1,0 +1,5 @@
+my_module.link:
+  title: my_module
+  description: Enrutamiento para mi modulo
+  parent: system.admin_structure
+  route_name: my_module.routing
